@@ -24,6 +24,7 @@ Nos pondremos en contacgo contigo para confirmar recepción, y para acordar una 
 * [Google App Engine, tu primera vez](https://github.com/pythonvlc/workshop-gae-dumbboard/)
 * [Taller de Tastypie y AngularJS](https://github.com/pythonvlc/workshop-tastypie-angularjs/)
 * [Taller de Introducción a Django](https://github.com/pythonvlc/workshop-introduction-django)
+* [Taller de Pilas Engine](https://github.com/pythonvlc/workshop-pilas-engine)
 
 ## Próximas charlas
 
