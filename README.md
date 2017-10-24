@@ -14,7 +14,7 @@ Para proponer una actividad simplemente envía un _issue_ a este repositorio. Ne
 * Descripción: unas cuantas frases sobre lo que quieres hablar.
 * Bio de ponente: ¿quién eres?, ¿qué haces en tu tiempo libre? o alguna cosa sobre ti.
 
-Nos pondremos en contacgo contigo para confirmar recepción, y para acordar una fecha.
+Nos pondremos en contacto contigo para confirmar recepción, y para acordar una fecha.
 
 ## Charlas realizadas
 
