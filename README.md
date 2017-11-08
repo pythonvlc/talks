@@ -29,10 +29,6 @@ Nos pondremos en contacto contigo para confirmar recepción, y para acordar una 
 * [Cómo hacer API Rest con Django](https://www.youtube.com/watch?v=RoxEX9DFF7s)
 
 
-## Próximas charlas
-
-De momento no tenemos ninguna charla a la vista, **¡manda tu propuesta!**
-
 ## Nota
 Nos hemos inspirado en [ValenciaJS](http://www.valenciajs.org/) para organizar este sistema para la propuesta de charlas, así que no podiamos pasar sin darles las gracias :)
 
