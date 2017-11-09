@@ -27,6 +27,7 @@ Nos pondremos en contacto contigo para confirmar recepción, y para acordar una 
 * [Taller de Introducción a Django](https://github.com/pythonvlc/workshop-introduction-django)
 * [Crear videojuegos con Godot Engine](https://www.youtube.com/watch?v=od5XGhq1RNo)
 * [Cómo hacer API Rest con Django](https://www.youtube.com/watch?v=RoxEX9DFF7s)
+* [Ansible para pythonistas](https://github.com/mtribaldos/ansible-for-pythonistas-talk)
 
 
 ## Nota
